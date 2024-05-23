@@ -1,0 +1,19 @@
+{
+    "name": "Gon",
+    "symbol": "GON",
+    "image": "https://x.com/GonGonCoin/photo",
+    "description": "GONGON meme coin of GON Ecosystem.#$&",
+    "extensions": {
+        "website": "https://gongoncoin.com",
+        "twitter": "https://x.com/GonGonCoin",
+        "telegram": "https://t.me/gongoncoin"
+    },
+    "tags": [
+        "Meme",
+        "NFT"
+    ],
+    "creator": {
+        "name": "GONGON Dev",
+        "site": "https://dev.gongoncoin.com"
+    }
+}
